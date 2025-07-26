@@ -1,2 +1,1 @@
-# Amo-clone-1
-Author : Yash Kadam
+# CopyRight_Me
